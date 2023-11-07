@@ -10,7 +10,7 @@ Challenges
 
 Key Findings
   - The United States was largely the most dominant country in the summer games and to a slightly lesser degree for winter games
-  - The USSR reached an apex of olympic performnace in 1980
+  - The USSR reached an apex of olympic performnace in 1980, largely outperforming the USA
   - GDP has no effect on medal totals
 
 Conclusion
